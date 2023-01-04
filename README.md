@@ -1,1 +1,1 @@
-# veri-yap-lar-
+# veri-yapıları
